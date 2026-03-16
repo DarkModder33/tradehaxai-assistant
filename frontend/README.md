@@ -1,0 +1,1 @@
+# Frontend (Next.js)\n\nThis app fetches and displays trading signals from the FastAPI backend at `/api/signals`.\n\n## Development\nInstall dependencies and start the dev server:\n\n````\ncd frontend\nnpm install\nnpm run dev\n````\n\n## Build for production\n````\nnpm run build\nnpm run start\n````
